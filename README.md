@@ -1,3 +1,7 @@
+# DX_4조_1차 발표자료
+https://colab.research.google.com/drive/1wy157xDkvrJEHMWzoVIQxL06qMXkpTv7
+
+
 # DX_4조_repo
  Sensor_Data
  "Sensor_data: AccX,AccY,AccZ,GyrX,GyrY,GyrZ,Current
@@ -8,3 +12,5 @@
 
 # 데이터
 https://colab.research.google.com/drive/1wy157xDkvrJEHMWzoVIQxL06qMXkpTv7#scrollTo=DXB7PuicS0T8
+
+
